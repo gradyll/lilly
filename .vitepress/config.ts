@@ -1,7 +1,7 @@
 import { defineConfigWithTheme } from 'vitepress'
 
 export default defineConfigWithTheme({
-  base: '/',
+  base: '/lilly/',
   title: 'Gradyll',
   description: 'This is b vite-ts-blog.',
   lastUpdated: true,
