@@ -6,6 +6,9 @@ export default defineConfigWithTheme({
   description: 'This is b vite-ts-blog.',
   // lastUpdated: true,
   lang: 'en-US',
+  head: [
+    ["link", { rel: "icon", href: "/logo.png" }]
+  ],
   themeConfig: {
     // outlineTitle: 'In hac pagina',
     siteTitle: 'Gradyll',
