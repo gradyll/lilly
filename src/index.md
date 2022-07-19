@@ -6,8 +6,8 @@ hero:
   # tagline: Lorem ipsum...
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/index
+      text: 开始幸福吧
+      link: /life/eat/index
     # - theme: alt
     #   text: View on GitHub
     #   link: https://github.com/vuejs/vitepress

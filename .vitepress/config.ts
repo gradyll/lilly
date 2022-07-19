@@ -12,7 +12,7 @@ export default defineConfigWithTheme({
     logo: '/logo.png',
     nav: [
       // { text: 'Guide', activeMatch: `^/guide/`, link: '/guide/index', },
-      { text: '生活', activeMatch: `^/life/`, link: '/life/eat' },
+      { text: '生活', activeMatch: `^/life/`, link: '/life/eat/index' },
 
     ],
     sidebar: {
