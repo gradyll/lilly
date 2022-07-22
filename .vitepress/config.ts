@@ -7,7 +7,7 @@ export default defineConfigWithTheme({
   // lastUpdated: true,
   lang: 'en-US',
   head: [
-    ["link", { rel: "icon", href: "/logo.png" }]
+    ["link", { rel: "icon", href: "/lilly/logo.png" }]
   ],
   themeConfig: {
     // outlineTitle: 'In hac pagina',
