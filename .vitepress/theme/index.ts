@@ -1,5 +1,6 @@
 // .vitepress/theme/index.js
 import Layout from './components/Layout.vue'
+import ImgShow from './components/ImgShow.vue'
 import DefaultTheme from 'vitepress/theme'
 import { h, App } from 'vue'
 export default {
@@ -25,5 +26,6 @@ export default {
     // router is VitePress' custom router. `siteData` is
     // a `ref` of current site-level metadata.
     app.component('Layout', Layout)
+    app.component('ImgShow', ImgShow)
   }
 }

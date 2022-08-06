@@ -31,7 +31,7 @@ export default defineConfigWithTheme({
         {
           text: '生活',
           items: [
-            { text: '吃', link: '/life/eat/index' },
+            { text: '美食', link: '/life/eat/index' },
             { text: '喝', link: '/life/drink/index' },
           ]
         }
