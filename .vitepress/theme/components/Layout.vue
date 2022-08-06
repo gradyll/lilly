@@ -4,7 +4,7 @@
     <div class="ll-title">
       <em class="ll-des">在一起</em>
       <span class="ll-day-num">{{ Time }}</span>
-      
+      <spam>天</spam>
     </div>
     <div class="ll-time"></div>
   </div>
